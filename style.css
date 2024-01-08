@@ -7,3 +7,8 @@
 body {
     background-color: aqua;
 }
+
+footer {
+    height: 376px;
+    background: #404040;
+}
